@@ -1,0 +1,17 @@
+## Interface: 11503
+## Title: Di Blackrock Eruption
+## Notes: Quality of life features for the Blackrock Eruption dailies.
+## Author: Dicrypt
+## Version: 1.0
+
+#@no-lib-strip@
+libs\Libstub\Libstub.lua
+#@end-no-lib-strip@
+libs\LibDataBroker-1-1\LibDataBroker-1.1.lua
+#@no-lib-strip@
+libs\LibDBIcon-1.0\LibDBIcon-1.0\LibDBIcon-1.0.lua
+#@end-no-lib-strip@
+
+DiBlackrockEruption.xml
+DiBlackrockEruption.lua
+DiBlackrockEruptionUI.lua
